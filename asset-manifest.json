@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/laura-davidescu/static/js/main.dc1c85b3.chunk.js",
+    "main.js.map": "/laura-davidescu/static/js/main.dc1c85b3.chunk.js.map",
+    "runtime-main.js": "/laura-davidescu/static/js/runtime-main.59ba8828.js",
+    "runtime-main.js.map": "/laura-davidescu/static/js/runtime-main.59ba8828.js.map",
+    "static/js/2.e0d89772.chunk.js": "/laura-davidescu/static/js/2.e0d89772.chunk.js",
+    "static/js/2.e0d89772.chunk.js.map": "/laura-davidescu/static/js/2.e0d89772.chunk.js.map",
+    "static/js/3.2686fbf9.chunk.js": "/laura-davidescu/static/js/3.2686fbf9.chunk.js",
+    "static/js/3.2686fbf9.chunk.js.map": "/laura-davidescu/static/js/3.2686fbf9.chunk.js.map",
+    "index.html": "/laura-davidescu/index.html",
+    "static/js/2.e0d89772.chunk.js.LICENSE.txt": "/laura-davidescu/static/js/2.e0d89772.chunk.js.LICENSE.txt",
+    "static/media/Portrait-armchair-edit.f2e5a1e4.jpg": "/laura-davidescu/static/media/Portrait-armchair-edit.f2e5a1e4.jpg",
+    "static/media/Portrait-close-stand-up.ec300650.jpg": "/laura-davidescu/static/media/Portrait-close-stand-up.ec300650.jpg",
+    "static/media/Portrait-medium-stand-up.fd7c328e.jpg": "/laura-davidescu/static/media/Portrait-medium-stand-up.fd7c328e.jpg",
+    "static/media/Studio2ndangle.d7690183.jpg": "/laura-davidescu/static/media/Studio2ndangle.d7690183.jpg",
+    "static/media/Studio3rdangle.948c1c9e.jpg": "/laura-davidescu/static/media/Studio3rdangle.948c1c9e.jpg",
+    "static/media/kids1.1b1e20a1.jpg": "/laura-davidescu/static/media/kids1.1b1e20a1.jpg",
+    "static/media/kids5.6bc643ce.jpg": "/laura-davidescu/static/media/kids5.6bc643ce.jpg",
+    "static/media/kids7square.f6c2c579.jpg": "/laura-davidescu/static/media/kids7square.f6c2c579.jpg",
+    "static/media/patient0.48bd6672.jpg": "/laura-davidescu/static/media/patient0.48bd6672.jpg",
+    "static/media/pencilhanddetail.3d5c1bf5.jpg": "/laura-davidescu/static/media/pencilhanddetail.3d5c1bf5.jpg",
+    "static/media/picturedetailsquare.3f4baae6.jpg": "/laura-davidescu/static/media/picturedetailsquare.3f4baae6.jpg",
+    "static/media/sofa-no-armch-edit.9c437cfb.jpg": "/laura-davidescu/static/media/sofa-no-armch-edit.9c437cfb.jpg",
+    "static/media/studiosquare.27832856.jpg": "/laura-davidescu/static/media/studiosquare.27832856.jpg",
+    "static/media/zoomstudiobooks.32c1e5f0.jpg": "/laura-davidescu/static/media/zoomstudiobooks.32c1e5f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59ba8828.js",
+    "static/js/2.e0d89772.chunk.js",
+    "static/js/main.dc1c85b3.chunk.js"
+  ]
+}
